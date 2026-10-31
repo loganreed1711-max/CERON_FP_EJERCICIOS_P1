@@ -1,7 +1,0 @@
-package Laboratorio1;
-
-public class Lab1_E0_Prueba {
-    public static void main(String[] args) {
-        System.out.println("Johnny Ceron - NRC 37712");
-    }
-}
